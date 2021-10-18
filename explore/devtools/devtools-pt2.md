@@ -1,0 +1,2 @@
+1. The bug was that the two variables for adding read from the input are read as strings so the adding process was concatting the two strings together.
+2. We can make a type casting from string to float when we read the two variables from the page.
